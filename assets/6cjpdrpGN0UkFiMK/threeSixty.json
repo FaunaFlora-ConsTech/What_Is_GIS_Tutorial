@@ -1,0 +1,60 @@
+{
+  "version": "3.82.31354.0",
+  "course_id": "6fuXkufUMCc_course_id",
+  "title": "Course Certificate Template",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Course Certificate"
+    },
+    {
+      "title": "nocontrols_modern16_9"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6U9exECVJos",
+      "title": "Type name",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5gSDPanLp9t",
+      "title": "Certificate",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6q06xLcWhUr",
+      "title": "What’s your name?",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "5lZUWm32JS7",
+      "title": "Untitled Slide",
+      "scene_index": "2.2"
+    },
+    {
+      "id": "6HCntVIf0QU",
+      "title": "Untitled Slide",
+      "scene_index": "2.3"
+    },
+    {
+      "id": "6IBeUtpXTGV",
+      "title": "Untitled Slide",
+      "scene_index": "2.4"
+    },
+    {
+      "id": "5dG1n64oPhj",
+      "title": "Untitled Slide",
+      "scene_index": "2.5"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 2307,
+    "height": 1542
+  },
+  "stage": {
+    "width": 2047,
+    "height": 1447
+  }
+}

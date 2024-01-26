@@ -1,0 +1,327 @@
+WEBVTT
+
+70afe467-dddf-4402-adf2-96e690735504-0
+00:00:05.900 --> 00:00:09.578
+In this video we'll be going
+over the different types of GIS
+
+70afe467-dddf-4402-adf2-96e690735504-1
+00:00:09.578 --> 00:00:09.880
+data.
+
+7a227463-8e7d-4a9a-86ae-823add08149d-0
+00:00:10.610 --> 00:00:14.093
+GIS data is data that has
+geographic information
+
+7a227463-8e7d-4a9a-86ae-823add08149d-1
+00:00:14.093 --> 00:00:17.150
+referenced to specific locations
+on Earth.
+
+e4845d63-77a5-490b-a28a-29759ce050ef-0
+00:00:17.890 --> 00:00:21.223
+You can see that we're looking
+at an area in between Guinea and
+
+e4845d63-77a5-490b-a28a-29759ce050ef-1
+00:00:21.223 --> 00:00:21.640
+Liberia.
+
+f73f2da3-b5ea-442b-87f4-4a07ebd46eeb-0
+00:00:22.850 --> 00:00:26.031
+We'll be using this area to add
+different data layers to
+
+f73f2da3-b5ea-442b-87f4-4a07ebd46eeb-1
+00:00:26.031 --> 00:00:29.660
+demonstrate the different types
+of GIS data you can come across.
+
+7ae8f1f0-d585-4788-8d85-18bfd66ab374-0
+00:00:30.440 --> 00:00:34.729
+GIS data falls into two
+different categories, vector or
+
+7ae8f1f0-d585-4788-8d85-18bfd66ab374-1
+00:00:34.729 --> 00:00:39.171
+raster. Vector data is data
+represented by either points,
+
+7ae8f1f0-d585-4788-8d85-18bfd66ab374-2
+00:00:39.171 --> 00:00:40.550
+lines or polygons.
+
+3b716699-2972-408d-b590-9624834c15f5-0
+00:00:41.170 --> 00:00:43.620
+First of all, let's take a look
+at some point data.
+
+1dcfa283-0434-4afe-bebe-03f17d310943-0
+00:00:46.450 --> 00:00:50.157
+So this is point data
+representing the locations of
+
+1dcfa283-0434-4afe-bebe-03f17d310943-1
+00:00:50.157 --> 00:00:54.150
+different species of dinosaur
+spotted within this area.
+
+da07d390-e268-45c9-b315-993dfc529ec6-0
+00:00:55.500 --> 00:01:00.328
+So you can see that each data
+point tells us which species was
+
+da07d390-e268-45c9-b315-993dfc529ec6-1
+00:01:00.328 --> 00:01:05.080
+sighted, and it gives the XY
+coordinate for where the species
+
+da07d390-e268-45c9-b315-993dfc529ec6-2
+00:01:05.080 --> 00:01:06.000
+was sighted.
+
+c1c87502-d896-4b9e-ae59-bbfc9ce4afc1-0
+00:01:07.990 --> 00:01:12.426
+So point data is normally used
+to show the location of features
+
+c1c87502-d896-4b9e-ae59-bbfc9ce4afc1-1
+00:01:12.426 --> 00:01:16.655
+and points of interest, for
+example the sightings of species
+
+c1c87502-d896-4b9e-ae59-bbfc9ce4afc1-2
+00:01:16.655 --> 00:01:18.250
+or cities or buildings.
+
+b062015b-9478-423e-afba-f8815e8a93b3-0
+00:01:19.100 --> 00:01:22.499
+We can't use this data to
+measure area or length, but we
+
+b062015b-9478-423e-afba-f8815e8a93b3-1
+00:01:22.499 --> 00:01:25.838
+can measure density by
+calculating the number of points
+
+b062015b-9478-423e-afba-f8815e8a93b3-2
+00:01:25.838 --> 00:01:27.210
+within a specific area.
+
+3a4b0ef5-d876-4700-b1be-d8f13938969b-0
+00:01:29.140 --> 00:01:30.930
+OK, let's move on to line data.
+
+9a09d66b-79e9-421b-a2d8-57eb73bfc2e2-0
+00:01:34.430 --> 00:01:37.502
+So our line data here is
+representing the roads and
+
+9a09d66b-79e9-421b-a2d8-57eb73bfc2e2-1
+00:01:37.502 --> 00:01:38.920
+tracks within this area.
+
+9e819a5a-8748-4ab0-98bb-b93179095fcd-0
+00:01:39.870 --> 00:01:44.345
+Line data is used to represent
+linear features like roads or
+
+9e819a5a-8748-4ab0-98bb-b93179095fcd-1
+00:01:44.345 --> 00:01:45.520
+rivers or paths.
+
+a00be480-294e-4c46-8c13-7570d8710505-0
+00:01:46.140 --> 00:01:49.930
+This type of GIS data has one
+dimension, meaning we can use it
+
+a00be480-294e-4c46-8c13-7570d8710505-1
+00:01:49.930 --> 00:01:53.660
+to calculate the length, For
+example the length of this road.
+
+b11ad6f6-321c-4b2d-9422-8cada360b841-0
+00:01:55.270 --> 00:01:57.570
+Next, let's take a look at
+polygon data.
+
+525116c1-48a7-4c5c-b3e7-a246b0aef2a4-0
+00:01:59.600 --> 00:02:03.630
+So this polygon is representing
+the protected area of Ziama.
+
+55c57424-c5d2-402a-b878-9b34c61bd58b-0
+00:02:04.640 --> 00:02:08.909
+Polygons are used to represent
+areas, for example protected
+
+55c57424-c5d2-402a-b878-9b34c61bd58b-1
+00:02:08.909 --> 00:02:10.760
+areas or lakes or forests.
+
+da43d96e-6231-4b10-b33c-f8ea5fbfe328-0
+00:02:11.730 --> 00:02:15.810
+This type of GIS data has 2
+dimensions and so we can use
+
+da43d96e-6231-4b10-b33c-f8ea5fbfe328-1
+00:02:15.810 --> 00:02:20.320
+polygons to calculate the area,
+for example the area of Ziama.
+
+0bff1401-0d4d-479e-929a-64149430d75a-0
+00:02:23.050 --> 00:02:25.850
+So these are the three types of
+vector data.
+
+c6b04ab6-6dc8-41ef-9db2-995cdd0b51e9-0
+00:02:26.850 --> 00:02:27.360
+Point
+
+e9e65a55-fdcb-4740-b8c3-6c54199b7a4e-0
+00:02:29.380 --> 00:02:30.060
+Line
+
+a593d353-582c-40d8-949c-c45ad2459f84-0
+00:02:31.470 --> 00:02:32.240
+and Polygon.
+
+5153c043-2edd-42dc-bb9a-aa65e4379ae6-0
+00:02:33.490 --> 00:02:35.430
+So now let's take a look at
+raster data.
+
+2e06a49b-11cc-4c5a-b9de-58fce80436c0-0
+00:02:38.100 --> 00:02:42.325
+So we can think of raster data
+as like a photograph made-up of
+
+2e06a49b-11cc-4c5a-b9de-58fce80436c0-1
+00:02:42.325 --> 00:02:46.147
+pixels, where each pixel
+represents a value. Raster data
+
+2e06a49b-11cc-4c5a-b9de-58fce80436c0-2
+00:02:46.147 --> 00:02:49.970
+can be discrete or continuous.
+This is a discrete raster
+
+2e06a49b-11cc-4c5a-b9de-58fce80436c0-3
+00:02:49.970 --> 00:02:52.720
+showing the land cover within
+this area.
+
+1db421f1-f290-4a17-9ae8-c49350d984e3-0
+00:02:53.370 --> 00:02:57.352
+It's discrete as each cell has a
+distinct separate value that
+
+1db421f1-f290-4a17-9ae8-c49350d984e3-1
+00:02:57.352 --> 00:03:00.950
+represents a category or number.
+So if we zoom in here,
+
+0748e1f9-b553-4795-88ec-149939053f8c-0
+00:03:02.370 --> 00:03:06.692
+we can see that each cell
+corresponds with a type of land
+
+0748e1f9-b553-4795-88ec-149939053f8c-1
+00:03:06.692 --> 00:03:07.140
+cover.
+
+3bdf683d-4258-451e-84bd-44ef80d7a115-0
+00:03:08.710 --> 00:03:12.320
+If we click on an orange cell
+for example,
+
+b569917e-aa55-470c-b06e-40e467ca4e65-0
+00:03:15.450 --> 00:03:19.495
+we can see that it's got a value
+of four and this is
+
+b569917e-aa55-470c-b06e-40e467ca4e65-1
+00:03:19.495 --> 00:03:22.320
+corresponding to active
+agriculture.
+
+16b19d82-b297-4150-ac94-236a93ea5507-0
+00:03:25.380 --> 00:03:27.950
+So now let's take a look at a
+continuous raster.
+
+26aba191-0680-49ff-8e94-c61b910a820a-0
+00:03:29.070 --> 00:03:33.481
+So this continuous raster is
+representing elevation.
+
+26aba191-0680-49ff-8e94-c61b910a820a-1
+00:03:33.481 --> 00:03:38.474
+Continuous rasters also have
+grid cells, but with gradually
+
+26aba191-0680-49ff-8e94-c61b910a820a-2
+00:03:38.474 --> 00:03:43.801
+changing data so each cell has a
+value within a range. For this
+
+26aba191-0680-49ff-8e94-c61b910a820a-3
+00:03:43.801 --> 00:03:49.294
+elevation raster, each cell will
+have a value within zero to 1386
+
+26aba191-0680-49ff-8e94-c61b910a820a-4
+00:03:49.294 --> 00:03:52.540
+metres. So if we zoom in, we can
+still
+
+536f408d-3189-4844-9709-cb048efb80a0-0
+00:03:53.590 --> 00:03:59.752
+see that it's made-up of lots of
+cells and these cells have a
+
+536f408d-3189-4844-9709-cb048efb80a0-1
+00:03:59.752 --> 00:04:03.430
+value within this range of 0 to
+1386
+
+a7d130dd-f2af-411f-842d-c1ee8d8f3e55-0
+00:04:04.520 --> 00:04:08.680
+So aerial photographs are also a
+type of continuous raster.
+
+da16446e-1728-4633-9ebe-331324950874-0
+00:04:11.560 --> 00:04:16.741
+So that's the different types of
+GIS data. To recap, GIS data can
+
+da16446e-1728-4633-9ebe-331324950874-1
+00:04:16.741 --> 00:04:20.980
+be a vector or raster, and
+vector data can be points,
+
+efd5117c-66eb-445e-ba7b-47827887cd2e-0
+00:04:25.280 --> 00:04:26.190
+lines
+
+1e071a63-e8b4-4253-983f-380784f0101d-0
+00:04:27.590 --> 00:04:28.640
+or polygons.
+
+fa795cdf-d773-46a7-95b0-7ef1ddda9581-0
+00:04:29.830 --> 00:04:31.240
+And raster data
+
+e20a623c-775a-432b-88c7-740652d9fac7-0
+00:04:32.040 --> 00:04:35.246
+is made-up of cells with
+different values and can be
+
+e20a623c-775a-432b-88c7-740652d9fac7-1
+00:04:35.246 --> 00:04:35.730
+discrete
+
+f5f34924-ada6-4e23-81ea-739c9602fa10-0
+00:04:40.670 --> 00:04:41.530
+or continuous.
